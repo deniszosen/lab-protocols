@@ -1,10 +1,10 @@
 # Zosen Lab protocols
 
-Step-by-step protocols for new members of the Zosen Lab (NCMBM, University of Oslo), written from the methods sections of the PI's published papers. There are 44 protocols. Each one lists the materials with catalogue numbers as printed in the source paper, a numbered procedure, quality checks, and a section that says what the paper does not state.
+Step-by-step protocols for new members of the Zosen Lab (NCMBM, University of Oslo), written from the methods sections of the PI's published papers. Each protocol lists the materials with catalogue numbers as printed in the source paper, a numbered procedure, quality checks, and a section that says what the paper does not state.
 
 ## Read this first
 
-- **These are drafts.** They record what was published. None has been run and validated in the Zosen Lab yet. Run a pilot, then record your own version in the lab notebook.
+- **These are version 0.1.** The methods are published and were used in the work behind the papers. The step-by-step write-ups were compiled from the published methods sections, so they carry any gap those sections leave. Run a pilot, then record your own version in the lab notebook.
 - **Every protocol separates the paper from general practice.** Anything added from general laboratory practice is labelled "General practice, not from the paper".
 - **Source parameters are quoted as printed.** Where a unit, a concentration or a catalogue number looks wrong in the paper, the protocol says so and does not correct it silently. [docs/gaps-to-confirm.md](docs/gaps-to-confirm.md) collects all of these.
 - **Approvals are yours to get.** Animal work (including chicken embryos from embryonic day 14), human tissue, patient data, iPSC lines and plasmids need your own approvals, consent and material transfer agreements. The permits named in the papers belong to the original studies.
