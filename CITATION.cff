@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these protocols, please cite them as below and cite the original papers listed in docs/source-papers.md."
+title: "Zosen Lab protocols"
+version: 0.1.0
+date-released: 2026-10-05
+license: CC-BY-4.0
+type: dataset
+authors:
+  - family-names: Zosen
+    given-names: Denis
+    affiliation: "Norwegian Centre for Molecular Biosciences and Medicine (NCMBM), University of Oslo"
+repository-code: "https://github.com/deniszosen/lab-protocols"
+url: "https://zosenlab.org"
+abstract: "Step-by-step protocols for new lab members, written from the methods sections of published papers. Draft versions, not yet validated in the lab."
+keywords:
+  - protocols
+  - neurodevelopment
+  - cell culture
+  - organoids
